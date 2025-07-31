@@ -10,8 +10,6 @@ body {
   margin: 0;
 }
 
-
-/* Created By Yash kumar Banjare...   */
 h1 {
   margin-bottom: 30px;
 }
@@ -23,16 +21,10 @@ h1 {
   gap: 20px;
   flex-wrap: wrap;
 }
-/* Created By Yash kumar Banjare...   */
 .header-stopwatch-row h1 {
   font-size: 2rem;
   margin: 0;
 }
-
-
-
-/* Created By Yash kumar Banjare...   */
-
 .stopwatch {
   background: white;
   padding: 30px 40px;
@@ -50,7 +42,6 @@ h1 {
   transform: translateY(-5px);
   cursor: pointer;
 }
-/* Created By Yash kumar Banjare...   */
 .outer-box {
   border: 3px solid #007bff;
   border-radius: 16px;
@@ -62,7 +53,6 @@ h1 {
 .outer-box:hover {
   box-shadow: 0 12px 35px rgba(0, 123, 255, 0.35);
 }
-/* Created By Yash kumar Banjare...   */
 .time-display {
   font-size: 3rem;
   font-weight: bold;
@@ -77,7 +67,6 @@ h1 {
   gap: 15px;
   margin-bottom: 25px;
 }
-/* Created By Yash kumar Banjare...   */
 button {
   background-color: #007bff;
   border: none;
@@ -120,4 +109,3 @@ button:disabled {
   font-weight: bold;
   color: #555;
 }
-/* Created By Yash kumar Banjare...   */
